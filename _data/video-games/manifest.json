@@ -23,6 +23,16 @@
         "id": "https://lgsump.github.io/video-games-mv/video-games/canvas-1/canvas",
         "type": "Canvas",
         "duration": 277.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/video-games-mv/annotations/video-games-canvas-1-vehicle.json",
+            "label": {
+              "none": ["Vehicle"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://lgsump.github.io/video-games-mv/video-games/canvas-1/paintings",
