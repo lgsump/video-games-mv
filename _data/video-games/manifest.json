@@ -32,6 +32,14 @@
               "none": ["Vehicle"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://lgsump.github.io/video-games-mv/annotations/video-games-canvas-1-animation.json",
+            "label": {
+              "none": ["Animation"]
+            }
+          }
         ],
         "items": [
           {
