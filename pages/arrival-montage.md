@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Arrival Montage
 manifest_name: arrival-montage
 permalink: arrival-montage
