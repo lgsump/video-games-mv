@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://lgsump.github.io/video-games-mv/california-girls/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "California Girls" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/download/Katy_Perry_California_Gurls_",
+        "type": "Text",
+        "label": { "en": [ "California Girls" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://archive.org/",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://lgsump.github.io/video-games-mv/california-girls/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 233.0,
+        "items": [
+          {
+            "id": "https://lgsump.github.io/video-games-mv/california-girls/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://lgsump.github.io/video-games-mv/california-girls/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia601205.us.archive.org/20/items/Katy_Perry_California_Gurls_/Katy%20Perry_California%20Gurls%20.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 233.0
+                },
+                "target": "https://lgsump.github.io/video-games-mv/california-girls/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
