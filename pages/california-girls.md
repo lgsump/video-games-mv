@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: California Girls
 manifest_name: california-girls
 permalink: california-girls
